@@ -1,0 +1,256 @@
+[17-Mar-2021 01:11:29 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:11:29 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:11:29 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:11:29 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:11:30 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:11:30 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:11:52 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:11:52 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:11:53 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:11:53 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:11:53 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:11:54 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:11:54 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:12:07 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:12:08 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:12:08 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:12:08 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:12:09 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:12:10 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:12:10 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:12:10 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:12:10 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:12:26 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 4
+[17-Mar-2021 01:12:27 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:13:47 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:13:47 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:13:47 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:13:47 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:13:48 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:13:48 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:18:42 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:42 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:42 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:44 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:44 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:44 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:44 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:44 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:44 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:44 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:44 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:44 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:45 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:45 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:45 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:45 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:45 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:45 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:45 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:45 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:45 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:45 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:45 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:45 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:45 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:45 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:45 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:46 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:46 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:46 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:46 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:46 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:46 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:46 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:46 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:46 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:48 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:48 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:48 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:48 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:48 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:18:48 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:11 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:11 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:11 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:13 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:13 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:13 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:14 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:14 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:14 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:14 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:14 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:14 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:14 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:14 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:14 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:14 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:14 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:14 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:14 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:14 Europe/Istanbul] PHP Warning:  require(./tr/app/views/login.php): failed to open stream: No such file or directory in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:19:14 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required './tr/app/views/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/sign_up.php on line 42
+[17-Mar-2021 01:23:03 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 5
+[17-Mar-2021 01:23:43 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:23:44 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:23:44 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:23:44 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:23:45 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:26:30 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:26:31 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:26:31 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:26:31 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:26:32 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:26:32 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:27:49 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:27:49 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 5
+[17-Mar-2021 01:40:52 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:40:52 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 5
+[17-Mar-2021 01:42:26 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:42:26 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 5
+[17-Mar-2021 01:43:07 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 01:43:07 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 5
+[17-Mar-2021 03:49:23 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 03:49:35 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 03:49:39 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 03:49:40 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 03:50:12 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 03:50:45 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 03:50:50 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 03:50:53 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 03:51:02 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 07:51:23 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 08:25:04 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 08:35:08 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 10:28:55 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 10:52:02 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 10:57:07 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 10:58:09 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 10:59:47 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 10:59:54 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 10:59:56 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 11:05:04 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 11:09:47 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 11:51:49 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 11:56:55 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 12:30:13 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 8
+[17-Mar-2021 12:30:13 Europe/Istanbul] PHP Notice:  Undefined index: chipid in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 9
+[17-Mar-2021 12:30:13 Europe/Istanbul] PHP Notice:  Undefined index: hes in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 10
+[17-Mar-2021 12:30:13 Europe/Istanbul] PHP Notice:  Undefined index: durumu in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 11
+[17-Mar-2021 12:30:13 Europe/Istanbul] PHP Notice:  Undefined index: sicaklik in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 12
+[17-Mar-2021 12:30:13 Europe/Istanbul] PHP Notice:  Undefined index: tarih in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 13
+[17-Mar-2021 12:30:55 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 9
+[17-Mar-2021 12:30:55 Europe/Istanbul] PHP Notice:  Undefined index: chipid in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 10
+[17-Mar-2021 12:30:55 Europe/Istanbul] PHP Notice:  Undefined index: hes in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 11
+[17-Mar-2021 12:30:55 Europe/Istanbul] PHP Notice:  Undefined index: durumu in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 12
+[17-Mar-2021 12:30:55 Europe/Istanbul] PHP Notice:  Undefined index: sicaklik in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 13
+[17-Mar-2021 12:30:55 Europe/Istanbul] PHP Notice:  Undefined index: tarih in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 14
+[17-Mar-2021 12:31:52 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 9
+[17-Mar-2021 12:31:52 Europe/Istanbul] PHP Notice:  Undefined index: chipid in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 10
+[17-Mar-2021 12:31:52 Europe/Istanbul] PHP Notice:  Undefined index: hes in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 11
+[17-Mar-2021 12:31:52 Europe/Istanbul] PHP Notice:  Undefined index: durumu in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 12
+[17-Mar-2021 12:31:52 Europe/Istanbul] PHP Notice:  Undefined index: sicaklik in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 13
+[17-Mar-2021 12:31:52 Europe/Istanbul] PHP Notice:  Undefined index: tarih in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 14
+[17-Mar-2021 12:32:54 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 9
+[17-Mar-2021 12:32:54 Europe/Istanbul] PHP Notice:  Undefined index: chipid in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 10
+[17-Mar-2021 12:32:54 Europe/Istanbul] PHP Notice:  Undefined index: hes in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 11
+[17-Mar-2021 12:32:54 Europe/Istanbul] PHP Notice:  Undefined index: durumu in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 12
+[17-Mar-2021 12:32:54 Europe/Istanbul] PHP Notice:  Undefined index: sicaklik in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 13
+[17-Mar-2021 12:32:54 Europe/Istanbul] PHP Notice:  Undefined index: tarih in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 14
+[17-Mar-2021 12:53:30 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/hesokuyu/logs.hesokuyucu.com/tr/app/classes/admin.php:85
+Stack trace:
+#0 /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php(5): admin::getlogBydate('16/03/2021', '5')
+#1 /home/hesokuyu/logs.hesokuyucu.com/tr/index.php(29): require('/home/hesokuyu/...')
+#2 {main}
+  thrown in /home/hesokuyu/logs.hesokuyucu.com/tr/app/classes/admin.php on line 85
+[17-Mar-2021 12:54:44 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/hesokuyu/logs.hesokuyucu.com/tr/app/classes/admin.php:86
+Stack trace:
+#0 /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php(5): admin::getlogBydate(false, '5')
+#1 /home/hesokuyu/logs.hesokuyucu.com/tr/index.php(29): require('/home/hesokuyu/...')
+#2 {main}
+  thrown in /home/hesokuyu/logs.hesokuyucu.com/tr/app/classes/admin.php on line 86
+[17-Mar-2021 12:59:57 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 8
+[17-Mar-2021 12:59:57 Europe/Istanbul] PHP Notice:  Undefined index: chipid in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 9
+[17-Mar-2021 12:59:57 Europe/Istanbul] PHP Notice:  Undefined index: hes in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 10
+[17-Mar-2021 12:59:57 Europe/Istanbul] PHP Notice:  Undefined index: durumu in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 11
+[17-Mar-2021 12:59:57 Europe/Istanbul] PHP Notice:  Undefined index: sicaklik in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 12
+[17-Mar-2021 12:59:57 Europe/Istanbul] PHP Notice:  Undefined index: tarih in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 13
+[17-Mar-2021 13:00:47 Europe/Istanbul] PHP Warning:  Use of undefined constant drivers - assumed 'drivers' (this will throw an Error in a future version of PHP) in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 7
+[17-Mar-2021 13:02:33 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 13:02:55 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 13:03:05 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 13:03:10 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 13:03:19 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 13:04:27 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 13:05:58 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 13:08:17 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ';' or ',' in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 9
+[17-Mar-2021 13:12:49 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'font' (T_STRING), expecting ';' or ',' in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/logs.php on line 8
+[17-Mar-2021 13:50:10 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 13:51:33 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 13:52:05 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 13:52:33 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 13:55:32 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 13:57:28 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 15:36:07 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 15:44:42 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 15:45:10 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 15:46:50 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 15:48:19 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 15:48:19 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 15:48:37 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 15:48:37 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[17-Mar-2021 17:20:44 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[18-Mar-2021 11:15:02 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[18-Mar-2021 13:49:52 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[19-Mar-2021 11:38:35 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[19-Mar-2021 12:04:32 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[19-Mar-2021 14:36:18 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[19-Mar-2021 15:23:16 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[19-Mar-2021 15:46:17 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[19-Mar-2021 17:39:13 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[19-Mar-2021 21:36:42 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[20-Mar-2021 19:39:03 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[20-Mar-2021 20:19:41 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[22-Mar-2021 11:30:23 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[22-Mar-2021 11:57:59 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[22-Mar-2021 12:35:29 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[22-Mar-2021 22:05:02 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[23-Mar-2021 12:38:25 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[24-Mar-2021 12:30:29 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[24-Mar-2021 12:47:05 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[27-Mar-2021 12:36:00 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[27-Mar-2021 21:51:40 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[01-Apr-2021 17:48:36 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[01-Apr-2021 20:46:13 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[01-Apr-2021 20:46:13 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[01-Apr-2021 20:59:15 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[01-Apr-2021 21:14:32 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[01-Apr-2021 22:05:55 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[01-Apr-2021 22:05:59 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[02-Apr-2021 09:23:46 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[02-Apr-2021 17:10:40 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[02-Apr-2021 17:23:49 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[02-Apr-2021 17:24:40 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[02-Apr-2021 17:30:25 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[03-Apr-2021 06:07:57 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[03-Apr-2021 09:08:57 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[03-Apr-2021 21:11:18 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[05-Apr-2021 08:38:37 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[05-Apr-2021 09:39:28 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[05-Apr-2021 09:44:58 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[05-Apr-2021 10:29:09 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[05-Apr-2021 23:53:28 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[06-Apr-2021 15:08:26 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[06-Apr-2021 20:48:53 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[06-Apr-2021 21:08:02 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[07-Apr-2021 08:14:35 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[07-Apr-2021 11:59:10 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[07-Apr-2021 12:22:04 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[08-Apr-2021 07:16:58 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[08-Apr-2021 08:51:19 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[08-Apr-2021 08:53:10 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[08-Apr-2021 09:44:19 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[08-Apr-2021 10:21:49 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[08-Apr-2021 11:12:58 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4
+[08-Apr-2021 12:40:49 Europe/Istanbul] PHP Notice:  Undefined index: admin_email in /home/hesokuyu/logs.hesokuyucu.com/tr/app/controller/index.php on line 4

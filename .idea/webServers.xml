@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6128d36a-f681-4830-87c7-a5bd24de3461" name="logs.hesokuycu.com" url="http://ftp.hesokuyucu.com">
+        <fileTransfer rootFolder="/tr" host="ftp.hesokuyucu.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
